@@ -1,4 +1,4 @@
-# Sample game using warp contracts
+# Sample game using warp contracts ༼ つ ◕_◕ ༽つ
 
 ## Contracts setup
 
